@@ -1,7 +1,7 @@
 <template>
-  <Html lang="en">
+  <Html lang="en" data-theme="acid">
     <Body>
-      <NuxtLayout>
+      <NuxtLayout class="md:container md:mx-auto">
         <NuxtPage />
       </NuxtLayout>
     </Body>
