@@ -1,19 +1,14 @@
 <template>
-  <div>
-    <div class="stats shadow">
-      <div class="stat">
-        <div class="stat-title">useRequestHeaders</div>
-        <div class="stat-actions">
-          <NuxtLink
-            to="/use-request-headers"
-            class="btn btn-sm btn-success"
-            target="_blank"
-          >
-          use_Request_Headers
-          </NuxtLink>
-        </div>
+    <div class="pl-0 lg:pl-4">
+      <div class="max-w-7xl mx-auto">
+        <h1 class="text-2xl font-semibold text-gray-900">Home</h1>
       </div>
-
+      <div class="max-w-7xl mx-auto">
+        <!-- Replace with your content -->
+        <div class="py-4">
+          <div class="border-4 border-dashed border-gray-200 rounded-lg h-96" />
+        </div>
+        <!-- /End replace -->
+      </div>
     </div>
-  </div>
 </template>
